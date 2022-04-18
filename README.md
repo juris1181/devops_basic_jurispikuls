@@ -1,2 +1,2 @@
-# devops_basic_jurispikuls
-DevOps pamati iesācējiem _1.grupa
+# DevOps repozitorijs
+Juris Pikuls DevOps repozitorijs pamati iesācējiem
